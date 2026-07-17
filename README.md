@@ -1,4 +1,4 @@
-# ✨ AI Idea Generator
+`# ✨ AI Idea Generator
 
 An AI-powered idea generation web application that helps users instantly create creative and personalized ideas using Google's Gemini AI. Users can select a category, generate unique ideas, and save their favorite ideas for later.
 
