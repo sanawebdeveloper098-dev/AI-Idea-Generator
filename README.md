@@ -53,8 +53,6 @@ The application uses the Gemini AI API to generate unique ideas based on user-se
 - CSS3
 - JavaScript (ES6+)
 
-### AI Integration
-- Google Gemini 2.5 Flash API
 
 ### Database
 - Supabase
